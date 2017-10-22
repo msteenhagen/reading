@@ -4,7 +4,7 @@
 
 ### Why this page?
 
-<img align="right" width="200" src="https://i.pinimg.com/564x/3b/a5/81/3ba5811bee04435c2a4562efc831ea2e.jpg"> Advanced students in philosophy will discover that reading philosophy is time consuming. Yet a good undergraduate degree in philosophy comes with a significant reading list. At graduate level, many students will feel the need to start keeping up with professional literature. Simply sitting down and reading each article in full, from beginning to end, is often not the best use of one's time. Moreover, the most obvious approaches to a piece of writing tend to be rather passive, which is not conducive to memory and retention. 
+<img align="right" width="400" src="https://i.pinimg.com/564x/3b/a5/81/3ba5811bee04435c2a4562efc831ea2e.jpg"> Advanced students in philosophy will discover that reading philosophy is time consuming. Yet a good undergraduate degree in philosophy comes with a significant reading list. At graduate level, many students will feel the need to start keeping up with professional literature. Simply sitting down and reading each article in full, from beginning to end, is often not the best use of one's time. Moreover, the most obvious approaches to a piece of writing tend to be rather passive, which is not conducive to memory and retention. 
 
 An advanced approach to philosophical reading then is both aimed at better time-management and at seeking a more active engagement with other people's writing from the outset. On this page I offer some ideas and strategies for improving your philosophical reading skills. 
 
