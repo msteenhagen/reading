@@ -8,7 +8,7 @@
 
 At graduate level, many students may in addition feel the need to start keeping up with the professional literature in specific areas.
 
-The most obvious approach to reading is simply to sit down and read an article in full, from beginning to end, and more to the next. This is typically not the best use of your time and it will prove hard to cover a lot of ground in this way. Moreover, the most obvious approach to reading tends to be rather passive, which is not conducive to memory and retention. 
+The most obvious approach to reading is simply to sit down and read an article in full, from beginning to end, and move on to the next when done. This is typically not the best use of your time, and it will not allow one to cover a lot of ground. Moreover, this approach to reading tends to be rather passive, which is not conducive to memory and retention. 
 
 Accordingly, an advanced approach to philosophical reading has at least two aims. The first is better time-management, the second a more active engagement with a piece of reading. 
 
