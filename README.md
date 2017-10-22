@@ -1,3 +1,5 @@
+# Get ready for the 25-Minute encounter approach to philosophical reading
+
 ## Foreword
 
 ### Why this page?
