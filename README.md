@@ -1,27 +1,35 @@
-# Get ready for the 25-Minute encounter approach to philosophical reading
+# Approaching philosophical reading
 
-## Foreword
+## Introduction
 
 ### Why this page?
 
-Advanced students in philosophy will have found out that reading philosophy can be time consuming. To make better use of one's time, and to be able to read more and read more efficiently, advanced reading techniques are a must. On this page we will collect some ideas and strategies for improving your philosophical reading skills. It is a collaborative enterprise, and we encourage philosophers of all stripes to contribute to this page.
+Advanced students in philosophy will discover that reading philosophy is time consuming. Yet a good undergraduate degree in philosophy comes with a significant reading list. At graduate level, many students will feel the need to start keeping up with professional literature. Simply sitting down and reading each article in full, from beginning to end, is often not the best use of one's time. Moreover, the most obvious approaches to a piece of writing tend to be rather passive, which is not conducive to memory and retention. 
 
-### Is philosophy special? 
+An advanced approach to philosophical reading then is both aimed at better time-management and at seeking a more active engagement with other people's writing from the outset. On this page I offer some ideas and strategies for improving your philosophical reading skills. 
 
-The guidelines amnd strategies we will present in what follows are aimed to help people reading philosophical texts. You might wonder why we are pitching this so specifically. Why focus just on philosophy? On the one hand, it is true that much of what we will say may be useful for people studying in fields other than philosophy. On the other, however, philosophical texts tend to have distinctive features that demand a very specific approach. 
+Any suggestions for improvement are welcome at ms2416@cam.ac.uk. For those familiar with GitHub, feel free to suggest changes using a _pull request_. 
+
+### What makes philosophy special 
+
+The guidelines and strategies I will present here are intended to help students to develop their skill at reading _philosophical_ texts. You might wonder why I am pitching this so specifically; why focus just on philosophy? 
+
+On the one hand, it is true that much of what we will say may be useful for people studying in fields other than philosophy. On the other, however, philosophical texts tend to have distinctive features that demand a very specific approach. 
 
 One example, for example, is the extreme focus on argument. The argument of a philosophical text is not, as in most other forms of writing, a mere means to an end. It is not a way---perhaps the best way---of convincing a reader of a conclusion or theoretical outlook. In philosophy, the argument should be approached in the way the sciences think of the data presented in a study. It is where the action is. This focus on argument is characteristic of philosophy, and it requires you to approach a philosophical text in a specific way: you are primarily interested in finding where the argument is, how it works, and why the author bothered to include sections that are not directly involved in making this argument. 
 
-This is just one example of what is distinctive of philosophical texts. Perhaps you can think of more. 
+This is just one example of what is distinctive of philosophical texts. Perhaps you can think of more yourself. 
 
 ## Reading tips
 
 ### Why the advice to 'take notes' is at best incomplete
 Often you hear people advice students to take notes while they are reading. This is easier said than done. What should you note down? How detailed should your notes be? It is easy to ignore that good note-taking is question driven. Only if you know what you are trying to answer can you assess whether the notes you take---notes you take in the service of formulating an answer to your question(s)---are good notes. So instead of focusing on the notes, let's focus on the questions you should ask of any philosophical text.
 
-## The 25-Minute Encounter
+# The 25-Minute Encounter
 
 The aim of the following structured set of question is to generate a page or two of notes on the reading you want to do. It is designed for reading journal articles or chapters in collections. (If you plan to read an entire monograph, or to read a chapter of a monograph, these questions might not all make very good sense. Perhaps we will add a separate plan for those pieces of writing.) 
+
+In due course I will make this questionnaire available as a downloadable PDF-file. 
 
 ### The First Glimpse (5 minutes)
 The first questions you should ask yourself are superficial. They deal with the paper's structure and 'metadata'. What kind of work is this? How many pages do we have? How many sections? Answering these questions can be done on a first glipse of the work. Don't ignore this step, because it will give you a first impression of what to expect of the paper when you start actually reading it. Also, if there is an abstract, don't read it yet---that's better done in the next stage. 
