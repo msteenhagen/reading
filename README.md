@@ -17,24 +17,32 @@ This is just one example of what is distinctive of philosophical texts. Perhaps 
 ### Why the advice to 'take notes' is at best incomplete
 Often you hear people advice students to take notes while they are reading. This is easier said than done. What should you note down? How detailed should your notes be? It is easy to ignore that good note-taking is question driven. Only if you know what you are trying to answer can you assess whether the notes you take---notes you take in the service of formulating an answer to your question(s)---are good notes. So instead of focusing on the notes, let's focus on the questions you should ask of any philosophical text.
 
-### Formal questions
-The first questions you should ask yourself are superficial. They deal with the paper's _form_. What kind of work is this? How many pages do we have? How many sections? Answering these questions can be done on a 'first flick-through' of the work. Don't ignore this step, because it will give you a first impression of what to expect of the paper when you start actually reading it. 
+### The First Glimpse (5 minutes)
+The first questions you should ask yourself are superficial. They deal with the paper's structure and 'metadata'. What kind of work is this? How many pages do we have? How many sections? Answering these questions can be done on a first glipse of the work. Don't ignore this step, because it will give you a first impression of what to expect of the paper when you start actually reading it. Also, if there is an abstract, don't read it yet---that's better done in the next stage. 
 
-1. What kind of work is this? 
-2. How many pages? 
-3. Who wrote it? 
-4. What is the title? 
-5. What does the title tell about what the paper is about?
-5. How many sections? 
-6. Do the section headings tell me anything about what the paper is about or where I can find the argument?
+1. What kind of work is this?	
+2. How many pages?	
+3. Who wrote it?	
+4. What is the title?	
+5. Based on the title, what is the paper is about?	
+6. How many sections?	
+7. Based on the section headings, what is the debate the paper engages in?	
+8. In which section can I find the heart of the argument?	
 
-### Content questions
-When you actually start reading the paper, don't just take a deep breath and read it from beginning to end. You will waste time doing that. 
+### Mining, Searching, Scanning (15 minutes)
+Now it is time carfully to read the abstract, if there is one. 
 
-1. Read for argument (Write it down)
-2. Figure out what details are important by seeing if they align (or strongly conflict) with the argument
-3. Be able to formulate your own response to the reading/argument, using evidence from the text.
-4. Have a sense of what the most important or interesting new thing you learnt was (Helps see accomplishment and helps memory/retention) 
+1. What is the central claim defended? (_Paragraph answer desirable_)	
+2. Who is the main opponent?	
+3. What is the main argument?	(_Paragraph answer desirable_)	
+4. Is there a technical innovation that makes this argument possible? 	
+5. Does the paper make a negative or a positive point? (Or both?)	
+6. Does the author consider objections to the main argument? If so, how many? 	
 
+### The Network Placement (5 minutes)
+Take a minute or two to revisit your answers to the ‘First Glimpse’ section and revise where needed	
 
-
+1. What was new to me?	
+2. What seems useful to remember? 	
+3. What other articles did I read that made a similar point or addressed a similar topic? 	
+4. Do I need to read this article in full now? 	
