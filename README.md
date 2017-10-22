@@ -17,7 +17,7 @@ This is just one example of what is distinctive of philosophical texts. Perhaps 
 ### Why the advice to 'take notes' is at best incomplete
 Often you hear people advice students to take notes while they are reading. This is easier said than done. What should you note down? How detailed should your notes be? It is easy to ignore that good note-taking is question driven. Only if you know what you are trying to answer can you assess whether the notes you take---notes you take in the service of formulating an answer to your question(s)---are good notes. So instead of focusing on the notes, let's focus on the questions you should ask of any philosophical text.
 
-## The 25-Minute Encouter
+## The 25-Minute Encounter
 
 ### The First Glimpse (5 minutes)
 The first questions you should ask yourself are superficial. They deal with the paper's structure and 'metadata'. What kind of work is this? How many pages do we have? How many sections? Answering these questions can be done on a first glipse of the work. Don't ignore this step, because it will give you a first impression of what to expect of the paper when you start actually reading it. Also, if there is an abstract, don't read it yet---that's better done in the next stage. 
@@ -32,7 +32,7 @@ The first questions you should ask yourself are superficial. They deal with the 
 8. In which section can I find the heart of the argument?	
 
 ### Mining, Searching, Scanning (15 minutes)
-Now it is time carfully to read the abstract, if there is one. 
+Now it is time carefully to read the abstract, if there is one. 
 
 1. What is the central claim defended? (_Paragraph answer desirable_)	
 2. Who is the main opponent?	
