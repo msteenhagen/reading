@@ -19,6 +19,8 @@ Often you hear people advice students to take notes while they are reading. This
 
 ## The 25-Minute Encounter
 
+The aim of the following structured set of question is to generate a page or two of notes on the reading you want to do. It is designed for reading journal articles or chapters in collections. (If you plan to read an entire monograph, or to read a chapter of a monograph, these questions might not all make very good sense. Perhaps we will add a separate plan for those pieces of writing.) 
+
 ### The First Glimpse (5 minutes)
 The first questions you should ask yourself are superficial. They deal with the paper's structure and 'metadata'. What kind of work is this? How many pages do we have? How many sections? Answering these questions can be done on a first glipse of the work. Don't ignore this step, because it will give you a first impression of what to expect of the paper when you start actually reading it. Also, if there is an abstract, don't read it yet---that's better done in the next stage. 
 
