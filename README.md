@@ -4,11 +4,15 @@
 
 ### Why this page?
 
-<img align="right" width="400" hspace="10" src="https://i.pinimg.com/564x/3b/a5/81/3ba5811bee04435c2a4562efc831ea2e.jpg"> Advanced students in philosophy will discover that reading philosophy is time consuming. Yet a good undergraduate degree in philosophy comes with a significant reading list. At graduate level, many students will feel the need to start keeping up with professional literature. Simply sitting down and reading each article in full, from beginning to end, is often not the best use of one's time. Moreover, the most obvious approaches to a piece of writing tend to be rather passive, which is not conducive to memory and retention. 
+<img align="right" width="400" hspace="10" src="https://i.pinimg.com/564x/3b/a5/81/3ba5811bee04435c2a4562efc831ea2e.jpg"> Advanced students in philosophy will discover that reading philosophy is time consuming. Yet a good undergraduate degree in philosophy comes inevitably with a significant reading list. Our reading lists at the University of Cambridge require students to trawl through hundreds of articles and book chapters per academic year.
 
-An advanced approach to philosophical reading then is both aimed at better time-management and at seeking a more active engagement with other people's writing from the outset. On this page I offer some ideas and strategies for improving your philosophical reading skills. 
+At graduate level, many students may in addition feel the need to start keeping up with the professional literature in specific areas.
 
-Any suggestions for improvement are welcome at ms2416@cam.ac.uk. For those familiar with GitHub, feel free to suggest changes using a _pull request_. 
+The most obvious approach to reading is simply to sit down and read an article in full, from beginning to end, and more to the next. This is typically not the best use of your time and it will prove hard to cover a lot of ground in this way. Moreover, the most obvious approach to reading tends to be rather passive, which is not conducive to memory and retention. 
+
+Accordingly, an advanced approach to philosophical reading has at least two aims. The first is better time-management, the second a more active engagement with a piece of reading. 
+
+On this page I offer some of my own ideas and strategies for improving your philosophical reading skills and meeting these two aims. Any suggestions for improvement are welcome at ms2416@cam.ac.uk. For those familiar with GitHub, feel free to suggest changes by making a pull request. 
 
 ### What makes philosophy special 
 
