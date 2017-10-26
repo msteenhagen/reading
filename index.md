@@ -63,4 +63,4 @@ Take a minute or two to revisit your answers to the ‘First Glimpse’ section 
 1. What was new to me?	
 2. What seems useful to remember? 	
 3. What other articles did I read that made a similar point or addressed a similar topic? 	
-4. Do I need to read this article in full now? 	
+4. Do I need to schedule reading this article in full? 	
