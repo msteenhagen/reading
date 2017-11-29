@@ -48,7 +48,7 @@ The first questions you should ask yourself are superficial. They deal with the 
 8. In which section can I find the heart of the argument?	
 
 ### Mining, Searching, Scanning (15 minutes)
-Now it is time carefully to read the abstract, if there is one. 
+Now it is time carefully to read the abstract, if there is one. Answer the following questions based on a selective scanning, searching, and mining of the text.
 
 1. What is the central claim defended? (_Paragraph answer desirable_)	
 2. Who is the main opponent?	
